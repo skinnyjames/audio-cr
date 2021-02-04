@@ -1,0 +1,14 @@
+name: audio
+version: 0.1.0
+
+authors:
+  - skinnyjames <sean.christopher.gregory@gmail.com>
+
+crystal: 0.36.1
+
+dependencies:
+  soundio:
+    github: astellon/soundio-cr
+
+
+license: MIT
