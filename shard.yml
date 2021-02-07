@@ -7,8 +7,11 @@ authors:
 crystal: 0.36.1
 
 dependencies:
-  soundio:
-    github: astellon/soundio-cr
-
+  soundfile:
+    github: skinnyjames-forks/soundfile
+    branch: master
+  quartz: 
+    github: skinnyjames-forks/quartz
+    branch: master
 
 license: MIT
